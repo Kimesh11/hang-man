@@ -7,7 +7,7 @@ function HangmanFigure({wrongGuesses}) {
     const step = Math.min(wrongGuesses + 1, maxChance);
 
     // Referencing the pics from the public folder.
-    const imagePath = `${process.env.PUBLIC_URL}/hangman/state${step}.gif`;
+    const imagePath = `${process.env.PUBLIC_URL}/hangman/state${step}.GIF`;
     console.log({imagePath});
 
     const figure = (
