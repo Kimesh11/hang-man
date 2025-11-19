@@ -33,7 +33,7 @@ For full rules and guidelines, **click the “Help” button inside the app**.
 Follow these steps to download and run the app on your own machine:
 
 ### 1. Clone the repository
-git clone https://github.com/Kimesh11/your-hangman-repo.git
+git clone https://github.com/Kimesh11/hang-man.git
 
 ### 2. Navigate into the folder eg. cd hangman
 
